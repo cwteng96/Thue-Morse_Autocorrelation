@@ -1,1 +1,2 @@
-This folder contains the MATLAB codes used for my master thesis. It contains the codes to calculate the autocorrelation function of the Thue-Morse sequence, the absolute sum of the autocorrelation function, and the calculation related to asymptotic bound for the absolute sum.
+This folder contains the MATLAB codes used for my master thesis (This work was part of the Fundamental Research Grant Scheme (FRGS) project (FRGS/1/2020/STG06/XMU/02/1 (EMAT/0003)), which is supported by the Ministry of Higher Education Malaysia). 
+It contains the codes to calculate the autocorrelation function of the Thue-Morse sequence, the absolute sum of the autocorrelation function, and the calculation related to asymptotic bound for the absolute sum.
