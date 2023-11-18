@@ -1,3 +1,5 @@
+% NAME: CHANG WEN TENG
+% STUDENT ID: MAM2109001
 % SUMMARY: This code is written to calculate the autocorrelation values from eta(0) until eta(n) and plot the graph of eta(n) against lag n.
 
 function list_pairwise_eta(n)
